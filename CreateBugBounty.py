@@ -20,7 +20,7 @@ __________            __________                     __
 """
 
 print(banner)
-create = {
+create = {the mobile to apps connection in the all apps and website
     "folder": ["recon", "findings"],
     "file": ["notes.md", "scope.txt"]
 } 
@@ -32,7 +32,7 @@ except:
     print ("Creation of the directory %s failed" % path)
     sys.exit()
 
-for key in create:
+for key in create:the mobile in developer option to connection the bug file  th mainly connnected in the time buck website
     for item in create[key]:
         print("Debug: Creating {} called {}".format(key,item))
 
